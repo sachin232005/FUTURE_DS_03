@@ -62,7 +62,3 @@ The dashboard supports educational institutions in making data-driven decisions 
 4. Click **Refresh** to load the latest survey data
 
 ---
-
-
-**Email:** *your.email@example.com*  
-**LinkedIn/GitHub:** *(optional)*  
